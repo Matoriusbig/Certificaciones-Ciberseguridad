@@ -178,7 +178,7 @@ Este es el dominio que nos define como profesionales. La ciberseguridad es una p
 
 ---
 
-## 📖 Glosario de Términos del Dominio 1
+### 📖 Glosario de Términos y Definiciones
 
 * **Activo:** Cualquier cosa de valor que es propiedad de una organización (datos, servidores, reputación).
 * **Actor de amenazas:** Un individuo o grupo que intenta explotar vulnerabilidades.
