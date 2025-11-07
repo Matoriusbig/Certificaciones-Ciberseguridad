@@ -7,16 +7,35 @@
 
 Soy un estudiante de **Ingeniería Informática** apasionado por el hacking 👨‍💻, la ciberseguridad y el análisis de amenazas.
 
-Este repositorio documenta mi viaje de aprendizaje y mis análisis técnicos mientras me preparo para las certificaciones líderes de la industria. ¡Mi objetivo es convertir la teoría en práctica y demostrar mis habilidades!
+Hace tiempo me hice la pregunta de **¿Cómo comenzár en ciberseguridad o el mundo del hacking?** 
+**Aquí te muestro cómo!**
+
+Este repositorio documenta mi viaje de aprendizaje y mis análisis técnicos mientras me preparo para las certificaciones líderes de la industria.
 
 ---
 
-## 🎯 Propósito de este Repositorio
+## 🎯 **Propósito del Repositorio: El Centro de Conocimiento para la Ciberseguridad**
+Hace tiempo identifiqué dos barreras significativas en el camino hacia la ciberseguridad:
 
-¡Puedes utilizar este repositorio para prepararte para las distintas certificaciones de la industria!
+* El no saber por donde empezar! después de ver a tantos influencer hablar de cómo empezar y leer muchísimos foros en reditt, **Éste es el camino definitivo a este increible mundo llamado ciberseguiridad! 🌏💻**
 
-Todo el material utilizado es de **fuentes confiables** (libros oficiales, documentación técnica y laboratorios) y ha sido **resumido y redactado por mí** ✍️. Mi enfoque no es solo memorizar, sino entender el *por qué* de cada concepto, especialmente a través de la lente del riesgo.
+* La alta barrera económica de la educación en este campo. **(El alto costo de los cursos y certificaciones!).** Luego de costearme bastantes cursos, membresías en plataformas educativas y sumado mi carrera universitaria me motivó a crear esta iniciativa.
 
+¡Este repositorio está diseñado para eliminar esa barrera y ser tu recurso principal!
+
+Aquí consolido todo el conocimiento clave que adquiero: apuntes de certificaciones de pago, material de laboratorios avanzados y conceptos universitarios, todo accesible para ti.
+
+## 🧠 Metodología: Sintetizado por IA, Validado y Enrequesido por mi Experiencia Personal Aplicada.
+
+El valor de este repositorio reside en su proceso de creación:
+
+* Todo el contenido proviene de materiales de estudio de alta calidad (cursos especializados).
+
+* El material ha sido sintetizado y estructurado inicialmente con Inteligencia Artificial y luego de revisado minuciosamente, validado y enriquecido por mi experiencia práctica.
+
+* Mi objetivo no es la memorización superficial, sino dominar el "por qué" detrás de cada concepto de seguridad.
+
+Espero sinceramente que este repositorio te sea de gran utilidad en tu propio viaje hacia la maestría en ciberseguridad. ¡Vamos a aprender y a avanzar juntos! 🚀
 > [!WARNING]
 > Este es un proyecto en constante evolución. Si encuentras errores o tienes alguna idea para complementar este repositorio de ayuda para aspirantes en ciberseguridad, ¡contáctame!
 
@@ -24,10 +43,9 @@ Todo el material utilizado es de **fuentes confiables** (libros oficiales, docum
 
 ## 📚 Índice de Certificaciones y Guías
 
-Aquí comenzaré a listar todas las guías de estudio y write-ups, empezando por mi objetivo actual.
+Aquí comenzaré a listar todas las guías de estudio y write-ups. Si estas comenzando te recomiendo encarecidamente comenzar por:
 
 ### 1️⃣ (ISC)² Certified in Cybersecurity (CC)
-Si estas enpezando de 0 en la ciberseguridad como yo, te recomiendo comenzar con esta, es gratuita y reconocida en la industria!
 
 * [Dominio 1: Principios de Seguridad](./ISC2-CC/CC-Dominio1.md)
 * [Dominio 2: Continuidad del Negocio (BC) y Respuesta a Incidentes](./ISC2-CC/CC-Dominio2.md)
