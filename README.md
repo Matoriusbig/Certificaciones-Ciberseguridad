@@ -49,7 +49,7 @@ La certificación **fundamental** para construir tu base. Cubre los 5 dominios c
   * [1.1 - Conceptos de Seguridad (Tríada CIA)](./ISC2-CC/Dominio-1/Conceptos-Seguridad.md) 
   * [1.2 - Gestión de Riesgos](./ISC2-CC/Dominio-1/Gestion-de-Riesgos.md)
   * [1.3 - Tipos de Controles de Seguridad](./ISC2-CC/Dominio-1/Controles-de-Seguridad.md)
-  * [1.4 - Gobernanza de Seguridad](./ISC2-CC/Dominio-1/Gobernanza.md)
+  * [1.4 - Gobernanza de Seguridad](./ISC2-CC/Dominio-1/Gobernanza-Seguridad.md)
   * [1.5 - Código de Ética de (ISC)²](./ISC2-CC/Dominio-1/Etica-ISC2.md)
 </details>
 
